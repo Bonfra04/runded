@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        ".dart_tool": true,
+        ".packages": true,
+        "pubspec.lock": true
+    },
+}

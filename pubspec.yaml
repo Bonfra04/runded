@@ -1,0 +1,16 @@
+name: runded
+description: runded library
+version: 1.0.0
+
+environment:
+  sdk: '>=2.8.1 <3.0.0'
+
+dependencies:
+  opengl: ^0.3.2
+  glfw: ^0.2.2
+  ffi: ^0.1.3
+  vector_math: ^2.0.8
+
+dev_dependencies:
+  pedantic: ^1.9.0
+  test: ^1.14.4
